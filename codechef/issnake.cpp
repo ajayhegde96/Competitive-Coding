@@ -1,3 +1,6 @@
+/*
+snake c program 
+*/
 #include<iostream>
 #include<bits/stdc++.h>
 # define siz 500
